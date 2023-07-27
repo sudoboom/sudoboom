@@ -25,7 +25,7 @@ Projects in Game Dev:
 
 TBA made for [My First Game Jam](https://itch.io/jam/my-first-game-jam-summer-2023)
 
-[Windows 95 Key Genner](https://muridono.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
+[Windows 95 Key Genner](https://dumprr.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
 
 
 ## 📎☠️ **I SWEAR I'M NOT A LIAR**
