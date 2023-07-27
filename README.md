@@ -10,8 +10,8 @@ I also really enjoy `drawing 🖌️` and `making games 👾`.
 
 # "Statistics"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumprr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumprr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumprr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # "Skillset"
