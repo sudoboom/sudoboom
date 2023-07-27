@@ -1,9 +1,13 @@
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
 ### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
 I also really enjoy `drawing 🖌️` and `making games 👾`.
+
 ---
-[**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects)
+
+## [**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects)
+
 ---
+
 # "Statistics"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumprr&show_icons=true&theme=tokyonight)
