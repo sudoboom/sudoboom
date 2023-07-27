@@ -1,17 +1,15 @@
-# Hi there 👋
-## I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
+# Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
 ### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
-### I also really enjoy `drawing 🖌️` and `making games 👾`.
-
-#
-#
+I also really enjoy `drawing 🖌️` and `making games 👾`.
+---
+[**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects)
+---
 # "Statistics"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumprr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumprr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-#
-#
+---
 # "Skillset"
 ## Here are some things I feel that I am proficient in 💪:
 - Javascript / NodeJS (coding) ☕
@@ -21,10 +19,7 @@
 ## I'm also learning or plan on learning..
 - Python (Just started) 🐍
 - HTML (Plan on learning) 📝
-##
-#
-
-
+---
 
 # Projects:
 
