@@ -4,7 +4,7 @@ I also really enjoy `drawing 🖌️` and `making games 👾`.
 
 ---
 
-## [**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects)
+## [**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**"Projects"**](https://github.com/dumprr#projects)
 
 ---
 
@@ -16,20 +16,21 @@ I also really enjoy `drawing 🖌️` and `making games 👾`.
 ---
 # "Skillset"
 ## Here are some things I feel that I am proficient in 💪:
-- Javascript / NodeJS (coding) ☕
-- Scratch 3 / TurboWarp (game development software, based on HTML5) 😺
-- Visual Studio Code (IDE) 🖥️ 
+- [**Javascript**](https://en.wikipedia.org/wiki/JavaScript) / [**NodeJS**](https://nodejs.org/) (coding) ☕
+- [**Scratch 3**](https://scratch.mit.edu/) / [**TurboWarp**](https://turbowarp.org/) (game development software, based on HTML5) 😺
+- [**Visual Studio Code**](https://code.visualstudio.com/) (IDE) 🖥️ 
 
 ## I'm also learning or plan on learning..
-- Python (Just started) 🐍
-- HTML (Plan on learning) 📝
+- [**Python**](https://www.python.org/) (Just started) 🐍
+- [**HTML**](https://en.wikipedia.org/wiki/HTML) (Plan on learning) 📝
 ---
 
-# Projects:
+# "Projects"
 
-Making a game in 14 days for [My First Game Jam](https://itch.io/jam/my-first-game-jam-summer-2023) (WILL UPDATE WHEN RELEASED)
+Making a game in 14 days for [**My First Game Jam**](https://itch.io/jam/my-first-game-jam-summer-2023) (WILL UPDATE WHEN RELEASED)
 
-[Windows 95 Key Genner](https://dumprr.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
+[**Windows 95 Key Genner**](https://dumprr.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
 
+[**PyFlooder**](https://github.com/dumprr/pyflood), a console spammer test
 
 
