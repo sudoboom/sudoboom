@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
 ### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
-I also really enjoy `drawing 🖌️` and `making games 👾`.
+I also really enjoy **`drawing 🖌️`** and **`making games 👾`**.
 
 ---
 
@@ -22,7 +22,7 @@ I also really enjoy `drawing 🖌️` and `making games 👾`.
 
 ## I'm also learning or plan on learning..
 - [**Python**](https://www.python.org/) (Just started) 🐍
-- [**HTML**](https://en.wikipedia.org/wiki/HTML) (Plan on learning) 📝
+- [**HTML**](https://en.wikipedia.org/wiki/HTML) (Just started) 📝
 ---
 
 # "Projects"
