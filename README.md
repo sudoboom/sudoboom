@@ -2,7 +2,7 @@
 ### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
 I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
 
-I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. Sometimes I use repl.it.
+I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. Sometimes I use [**replit.**](https://replit.com) 🖥️
 
 ---
 
