@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
 ### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
-I also really enjoy **`drawing 🖌️`** and **`making games 👾`**. 
+I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
 
 I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. Sometimes I use repl.it.
 
@@ -18,12 +18,11 @@ I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. S
 ---
 # "Skillset"
 ## Here are some things I feel that I am proficient in 💪:
-- [**Javascript**](https://en.wikipedia.org/wiki/JavaScript) / [**NodeJS**](https://nodejs.org/) (coding) ☕
-- [**Scratch 3**](https://scratch.mit.edu/) / [**TurboWarp**](https://turbowarp.org/) (game development software, based on HTML5) 😺
-
-## I'm also learning or plan on learning..
-- [**Python**](https://www.python.org/) (Just started) 🐍
-- [**HTML**](https://en.wikipedia.org/wiki/HTML) (Just started) 📝
+- [**NodeJS ☕**](https://nodejs.org/) (Using for 2+ Years) 
+- [**TurboWarp 😺**](https://turbowarp.org/)  (Using for 3+ Years)
+- [**Python 🐍**](https://www.python.org/) (Just started) 
+- [**HTML 📝 + CSS 🎨**](https://en.wikipedia.org/wiki/HTML) (Just started) 
+- 
 ---
 
 # "Projects"
