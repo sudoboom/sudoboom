@@ -22,7 +22,6 @@ I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. S
 - [**TurboWarp 😺**](https://turbowarp.org/)  (Using for 3+ Years)
 - [**Python 🐍**](https://www.python.org/) (Just started) 
 - [**HTML 📝 + CSS 🎨**](https://en.wikipedia.org/wiki/HTML) (Just started) 
-- 
 ---
 
 # "Projects"
@@ -31,7 +30,7 @@ Making a game in 14 days for [**My First Game Jam**](https://itch.io/jam/my-firs
 
 [**Windows 95 Key Genner**](https://dumprr.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
 
-[**PyFlooder**](https://github.com/dumprr/pyflood), a console spammer test
+[**Ex(py)riments**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
 
 [**My Website**](https://dumprr.github.io/), (still VERY new, I just started learning HTML)
 
