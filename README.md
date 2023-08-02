@@ -1,13 +1,17 @@
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
-### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
-I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
 
-I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. Sometimes I use [**replit.**](https://replit.com) 🖥️
-
+---
 ---
 
 ## [**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**"Projects"**](https://github.com/dumprr#projects) | [**My Site**](https://dumprr.github.io/)
 
+---
+---
+
+### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
+I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
+
+---
 ---
 
 # "Statistics"
@@ -16,12 +20,14 @@ I code using [**Visual Studio Code**](https://code.visualstudio.com/) 🖥️. S
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+---
+
 # "Skillset"
-## Here are some things I feel that I am proficient in 💪:
-- [**NodeJS ☕**](https://nodejs.org/) (Using for 2+ Years) 
-- [**TurboWarp 😺**](https://turbowarp.org/)  (Using for 3+ Years)
-- [**Python 🐍**](https://www.python.org/) (Just started) 
-- [**HTML 📝 + CSS 🎨**](https://en.wikipedia.org/wiki/HTML) (Just started) 
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,discord,bots,github,heroku,nodejs,py,replit,vscode&theme=dark)](https://skillicons.dev)
+
+( and [**TurboWarp 😺**](https://turbowarp.org/) )
+
+---
 ---
 
 # "Projects"
