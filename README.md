@@ -1,17 +1,22 @@
+[**Stats**](https://github.com/dumprr#statistics) | [**Skills**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects) | [**Site**](https://dumprr.github.io/)
+---
+---
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
-
 ---
----
+# About me...
 
-## [**"Stats"**](https://github.com/dumprr#statistics) | [**"Skills"**](https://github.com/dumprr#skillset) | [**"Projects"**](https://github.com/dumprr#projects) | [**My Site**](https://dumprr.github.io/)
+**I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.**
 
----
----
-
-### I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.
 I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
 
+I have my own site too, you can check it out [**here**](https://dumprr.github.io/).
+
 ---
+# "Skillset"
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,discord,bots,github,heroku,nodejs,py,replit,vscode&theme=dark)](https://skillicons.dev)
+
+( and [**TurboWarp 😺**](https://turbowarp.org/) )
+
 ---
 
 # "Statistics"
@@ -22,10 +27,7 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 ---
 ---
 
-# "Skillset"
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,discord,bots,github,heroku,nodejs,py,replit,vscode&theme=dark)](https://skillicons.dev)
 
-( and [**TurboWarp 😺**](https://turbowarp.org/) )
 
 ---
 ---
