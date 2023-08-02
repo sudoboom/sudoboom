@@ -13,7 +13,7 @@ I have my own site too, you can check it out [**here**](https://dumprr.github.io
 
 ---
 # "Skillset"
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,discord,bots,github,heroku,nodejs,py,replit,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,vscode,replit,github,heroku,discord,bots&theme=dark)](https://skillicons.dev)
 
 ( and [**TurboWarp 😺**](https://turbowarp.org/) )
 
@@ -21,8 +21,8 @@ I have my own site too, you can check it out [**here**](https://dumprr.github.io
 
 # "Statistics"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumprr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumprr&show_icons=true&theme=tokyonight&line_height=28&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ---
