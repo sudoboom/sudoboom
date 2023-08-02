@@ -31,8 +31,10 @@ I have my own site too, you can check it out [**here**](https://dumprr.github.io
 
 ---
 ---
-
 # "Projects"
+<details>
+  <summary>Click this to view my projects!</summary><br>
+
 
 Making a game in 14 days for [**My First Game Jam**](https://itch.io/jam/my-first-game-jam-summer-2023) (WILL UPDATE WHEN RELEASED)
 
@@ -43,3 +45,4 @@ Making a game in 14 days for [**My First Game Jam**](https://itch.io/jam/my-firs
 [**My Website**](https://dumprr.github.io/), (still VERY new, I just started learning HTML)
 
 [**Sentaku**](https://github.com/dumprr/Sentaku), a generic discord bot with advanced generic features.
+</details>
