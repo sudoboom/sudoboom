@@ -2,24 +2,19 @@
 ---
 ---
 # Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
----
-# About me...
 
 **I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.**
-
-I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`**. 
+I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
 
 I have my own site too, you can check it out [**here**](https://dumprr.github.io/).
 
 ---
-# "Skillset"
+# Skillset
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,vscode,replit,github,heroku,discord,bots&theme=dark)](https://skillicons.dev)
-
-( and [**TurboWarp 😺**](https://turbowarp.org/) )
 
 ---
 
-# "Statistics"
+# Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumprr&show_icons=true&theme=tokyonight&line_height=28&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,7 +26,7 @@ I have my own site too, you can check it out [**here**](https://dumprr.github.io
 
 ---
 ---
-# "Projects"
+# Projects 🧰
 <details>
   <summary>Click this to view my projects!</summary><br>
 
