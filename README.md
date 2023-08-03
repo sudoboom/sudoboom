@@ -1,12 +1,13 @@
-[**Stats**](https://github.com/dumprr#statistics) | [**Skills**](https://github.com/dumprr#skillset) | [**Projects**](https://github.com/dumprr#projects) | [**Site**](https://dumprr.github.io/)
+[![Static Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=FA5C5C&color=FA5C5C)](https://dumprr.itch.io/)
+[![Static Badge](https://img.shields.io/badge/My%20Site-000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000&color=000)](https://dumprr.github.io/)
+[![Static Badge](https://img.shields.io/badge/E--Mail-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8A2BE2&color=8A2BE2)](mailto:duhhhmprr@proton.me)
+
 ---
----
-# Hi there 👋, I'm Dumprr [📨](mailto:duhhhmprr@proton.me)
+# Hi there 👋, I'm Dumprr
 
 **I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.**
-I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
 
-I have my own site too, you can check it out [**here**](https://dumprr.github.io/).
+I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
 
 ---
 # Skillset
