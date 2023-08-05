@@ -3,7 +3,10 @@
 [![Static Badge](https://img.shields.io/badge/E--Mail-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8A2BE2&color=8A2BE2)](mailto:duhhhmprr@proton.me)
 
 ---
-# Hi there 👋, I'm Dumprr
+<img alt="shark" src="https://github.com/dumprr/dumprr/assets/140656627/2573c883-fee1-4ad2-b31c-c41ea0b81f0d"  width="18%" height="18%">
+
+# Hi there 👋, I'm Dumprr 
+
 
 **I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.**
 
