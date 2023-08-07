@@ -43,5 +43,7 @@ Making a game in 14 days for [**My First Game Jam**](https://itch.io/jam/my-firs
 
 [**My Website**](https://dumprr.github.io/), (still VERY new, I just started learning HTML)
 
-[**Sentaku**](https://github.com/dumprr/Sentaku), a generic discord bot with advanced generic features.
+[**Sentaku**](https://github.com/dumprr/Sentaku), a multipurpose discord.js bot with advanced generic features.
+
+[**Trudare**](https://github.com/dumprr/Trudare), a Sentaku-based Truth or Dare discord.js bot.
 </details>
