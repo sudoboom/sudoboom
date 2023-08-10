@@ -16,7 +16,7 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumprr&show_icons=true&theme=tokyonight&line_height=28&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -28,7 +28,7 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 
 [**Linear Pirates**](https://dumprr.itch.io/pirates) made in in 14 days for [**My First Game Jam**](https://itch.io/jam/my-first-game-jam-summer-2023) 
 
-[**Windows 95 Key Genner**](https://dumprr.github.io/Win95CDKey/) made in TurboWarp/Scratch 3 
+[**Windows 95 Key Genner**](https://dumprr.neocities.org/) made in TurboWarp/Scratch 3 
 
 [**Ex(py)riments**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
 
