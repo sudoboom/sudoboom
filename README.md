@@ -11,7 +11,6 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,vscode,replit,github,heroku,discord,bots&theme=dark)](https://skillicons.dev)
 
-
 ---
 
 
@@ -23,7 +22,7 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 ---
 # Projects 🧰
 <details>
-  <summary>Click here to see them!</summary><br>
+  <summary> 🔍 Click here!</summary><br>
 
 
 [**Linear Pirates**](https://dumprr.itch.io/pirates) made in in 14 days for [**My First Game Jam**](https://itch.io/jam/my-first-game-jam-summer-2023) 
@@ -37,4 +36,22 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 [**Sentaku**](https://github.com/dumprr/Sentaku), a multipurpose discord.js bot with advanced generic features.
 
 [**Trudare**](https://github.com/dumprr/Trudare), a Sentaku-based Truth or Dare discord.js bot.
+</details>
+
+# Stats In Detail 📊
+<details>
+  <summary> 🔍 Click here!</summary><br><br>
+
+Programming Languages  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py&theme=dark)](https://skillicons.dev)
+
+Tools of the Trade
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,github,heroku&theme=dark)](https://skillicons.dev)
+
+Software
+
+[![My Skills](https://skillicons.dev/icons?i=discord,bots&theme=dark)](https://skillicons.dev)
+
 </details>
