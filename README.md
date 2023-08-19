@@ -21,39 +21,18 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 
 ---
 # Projects 🧰
+**Most projects are on [my website](https://dumprr.github.io/), but here are some bonus ones that didn't make the cut!**
 <details>
   <summary> 🔍 Click here!</summary><br>
 
+[**`TubeOffloader`**](https://github.com/dumprr/TubeOffloader), a (scuffed) YouTube video downloader made in Python
 
-[**Linear Pirates**](https://dumprr.itch.io/pirates) made in in 14 days for [**My First Game Jam**](https://itch.io/jam/my-first-game-jam-summer-2023) 
+[**`Ex(py)riments`**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
 
-[**Windows 95 Key Genner**](https://dumprr.neocities.org/) made in TurboWarp/Scratch 3 
-
-[**Ex(py)riments**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
-
-[**My Website**](https://dumprr.github.io/), (still VERY new, I just started learning HTML)
-
-[**Sentaku**](https://github.com/dumprr/Sentaku), a multipurpose discord.js bot with advanced generic features.
-
-[**Trudare**](https://github.com/dumprr/Trudare), a Sentaku-based Truth or Dare discord.js bot.
-</details>
-
-# Stats In Detail 📊
-<details>
-  <summary> 🔍 Click here!</summary><br><br>
-
-Programming Languages  
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py&theme=dark)](https://skillicons.dev)
-
-Tools of the Trade
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,replit,github,heroku&theme=dark)](https://skillicons.dev)
-
-Software
-
-[![My Skills](https://skillicons.dev/icons?i=discord,bots&theme=dark)](https://skillicons.dev)
-
-</details>
-
+ALSO...
 ![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
+
+</details>
+
+
+
