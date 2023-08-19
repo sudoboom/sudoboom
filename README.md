@@ -55,3 +55,5 @@ Software
 [![My Skills](https://skillicons.dev/icons?i=discord,bots&theme=dark)](https://skillicons.dev)
 
 </details>
+
+![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
