@@ -1,6 +1,7 @@
 [![Static Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=FA5C5C&color=FA5C5C)](https://dumprr.itch.io/)
 [![Static Badge](https://img.shields.io/badge/My%20Site-000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000&color=000)](https://dumprr.github.io/)
 [![Static Badge](https://img.shields.io/badge/E--Mail-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8A2BE2&color=8A2BE2)](mailto:duhhhmprr@proton.me)
+![ProfileViews](https://komarev.com/ghpvc/?username=dumprr&style=for-the-badge&color=brightgreen)
 
 # Hi there 👋, I'm Dumprr 
 
