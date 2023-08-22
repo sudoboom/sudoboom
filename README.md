@@ -10,7 +10,7 @@
 I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,vscode,replit,github,heroku,discord,bots&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,react,vscode,replit,github,heroku,discord,bots&theme=dark)](https://skillicons.dev)
 
 ---
 
