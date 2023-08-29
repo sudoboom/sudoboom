@@ -30,6 +30,8 @@ I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`*
 
 [**`Ex(py)riments`**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
 
+[**`Trudare`**](https://github.com/dumprr/Trudare), a truth or dare discord bot (unfinished)
+
 ALSO...
 ![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
 
