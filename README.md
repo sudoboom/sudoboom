@@ -7,7 +7,7 @@
 
 **I'm an aspiring young `programmer ⌨️`. My goal is to become a successful `software engineer 👨‍💻`.**
 
-I also really enjoy **`drawing digital art 🖌️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
+More of my hobbies include **`drawing digital art 🖌️`**, watching **`One Piece 🏴‍☠️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
 
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,nodejs,py,react,vscode,replit,heroku,github,bots&theme=dark)](https://skillicons.dev)
