@@ -21,15 +21,15 @@ Feel free to **visit *[`my website 🌐`](https://dumprr.github.io/)***, or **se
 <details>
   <summary> 🔍 Click here!</summary><br>
 
-[**`TubeOffloader`**](https://github.com/dumprr/TubeOffloader), a (scuffed) YouTube video downloader made in Python
+- [**`TubeOffloader`**](https://github.com/dumprr/TubeOffloader), a (scuffed) YouTube video downloader made in Python
 
-[**`Ex(py)riments`**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
+- [**`Ex(py)riments`**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
 
-[**`Trudare`**](https://github.com/dumprr/Trudare), a truth or dare discord bot (unfinished)
+- [**`Trudare`**](https://github.com/dumprr/Trudare), a truth or dare discord bot (unfinished)
 
 
 ALSO...
-![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
+- ![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
 
 </details>
 
