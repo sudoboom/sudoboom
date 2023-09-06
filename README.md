@@ -35,6 +35,3 @@ ALSO...
 
 
 ---
-
-
-![ProfileViews](https://komarev.com/ghpvc/?username=dumprr&style=for-the-badge&color=brightgreen)
