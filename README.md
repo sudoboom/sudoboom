@@ -4,7 +4,10 @@
 
 **I'm a young `programmer ⌨️` who aspires to be a prestigous `software engineer 👨‍💻`.**
 
-More of my hobbies include **`drawing digital art 🖌️`**, watching **`One Piece 🏴‍☠️`** and **`making games 👾`** using [**`TurboWarp 😺`**](https://turbowarp.org/). 
+More of my hobbies include 
+- **`drawing digital art 🖌️`**
+- **`watching One Piece 🏴‍☠️`** 
+- **`making games 👾 using`**  [**`TurboWarp 😺`**](https://turbowarp.org/).
 
 Feel free to **visit *[`my website 🌐`](https://dumprr.github.io/)***, or **send me an *[`e-mail 📧`](mailto:duhhhmprr@proton.me)***.
 
@@ -15,7 +18,7 @@ Feel free to **visit *[`my website 🌐`](https://dumprr.github.io/)***, or **se
 
 ---
 
----
+
 # Projects 🧰
 **My more notable projects can be seen on [my website](https://dumprr.github.io/), but here are some more *niche* projects.**
 <details>
