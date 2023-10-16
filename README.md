@@ -1,21 +1,22 @@
 
 
-# Hi there 👋, I'm Dumprr
+## Hi there 👋, I'm Dumprr
 
-<img align="right" alt="Top Langs" height="240px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true' />
+<img align="right" alt="Top Langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true' />
 
  <br>
 
 **I'm a young `⌨️ programmer` who aspires to be a `👨‍💻 fullstack web developer`.**
 
 🌱 Interests:
-- 🌐 ***I enjoy web development and making web games***
-- 🖌️ ***I like graphic design***
-- 🎥 ***I make edits (Videos with lots of effects basically)***
+- 🌐 ***I enjoy web development and making web-based games***
+- 🖌️ ***I like graphic design, drawing and animation***
+- 🎥 ***I make video edits (which have lots of effects)***
 
 ⚡ Infos:
-- 🧭 ***[Visit my website! ](https://dumprr.github.io/)***
-- 📬 ***[Email me! ](mailto:duhhhmprr@proton.me)***
+- 🧭 ***[Visit my portfolio website! ](https://dumprr.github.io/nano)***
+- ⌛ ***[Older (GPU heavy) website! ](https://dumprr.github.io/)***
+- 📬 ***[Contact me via email! ](mailto:duhhhmprr@proton.me)***
 
 
 
@@ -23,7 +24,7 @@
 
 - ***My more notable projects can be seen on [my website](https://dumprr.github.io/), but here are some more `niche` projects.***
   <details>
-    <summary> 🔍 Click here!</summary><br>
+    <summary>🔍<b><i>  Click here!</b></i></summary><br>
 
   - [**`TubeOffloader`**](https://github.com/dumprr/TubeOffloader), a (scuffed) YouTube video downloader made in Python
 
