@@ -6,7 +6,7 @@
 
  <br>
 
-**I'm a young `⌨️ programmer` who aspires to be a `👨‍💻 fullstack web developer`.**
+**I'm a young `⌨️ programmer` who aspires to be a `👨‍💻 fullstack developer`.**
 
 🌱 Interests:
 - 🌐 ***I enjoy web development and making web-based games***
