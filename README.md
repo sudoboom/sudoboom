@@ -9,20 +9,20 @@
 **I'm a young `⌨️ programmer` who aspires to be a `👨‍💻 fullstack developer`.**
 
 🌱 Interests:
-- 🌐 ***I enjoy web development and making web-based games***
-- 🖌️ ***I like graphic design, drawing and animation***
-- 🎥 ***I make video edits (which have lots of effects)***
+- 🌐 ***I enjoy web development, especially frontend and UI***
+- 🖌️ ***I also like working with graphic design***
+- 🎥 ***I edit videos from time to time***
 
 ⚡ Infos:
 - 🧭 ***[Visit my portfolio website! ](https://dumprr.github.io/nano)***
-- ⌛ ***[Older (GPU heavy) website! ](https://dumprr.github.io/)***
+- ⌛ ***[Older (GPU heavy and abandoned) website! ](https://dumprr.github.io/)***
 - 📬 ***[Contact me via email! ](mailto:duhhhmprr@proton.me)***
 
 
 
 🧰 Projects:
 
-- ***My more notable projects can be seen on [my website](https://dumprr.github.io/), but here are some more `niche` projects.***
+- ***My more notable projects can be seen on [my website](https://dumprr.github.io/nano), but here are some more `niche` projects.***
   <details>
     <summary>🔍<b><i>  Click here!</b></i></summary><br>
 
@@ -34,7 +34,6 @@
 
 
   ALSO...
-  - ![I made this cat](https://piskel-imgstore-b.appspot.com/img/15703b17-3ec6-11ee-882d-fd9c21749db8.gif) <--- I animated that!
 
   </details>
 
