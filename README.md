@@ -1,8 +1,9 @@
 
 
-## Hi there 👋, I'm Dumprr
+## Hi there 👋, I'm Sudoboom
+(formerly known as Dumprr)
 
-<img align="right" alt="Top Langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dumprr&layout=donut&theme=tokyonight&hide_border=true' />
+<img align="right" alt="Top Langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sudoboom&layout=donut&theme=tokyonight&hide_border=true' />
 
  <br>
 
@@ -14,11 +15,11 @@
 - 🎥 ***I edit videos from time to time***
 
 ⚡ Infos:
-- 🧭 ***[Visit my portfolio website! ](https://dumprr.github.io/nano)***
-- ⌛ ***[Older (GPU heavy and abandoned) website! ](https://dumprr.github.io/)***
+- 🧭 ***[Visit my portfolio website! ](https://sudoboom.github.io/nano)***
+- ⌛ ***[Older (GPU heavy and abandoned) website! ](https://sudoboom.github.io/)***
 - 📬 ***[Contact me via email! ](mailto:duhhhmprr@proton.me)***
 
-
+Links might be broken. Just changed my username
 
 🧰 Projects:
 
@@ -26,11 +27,11 @@
   <details>
     <summary>🔍<b><i>  Click here!</b></i></summary><br>
 
-  - [**`TubeOffloader`**](https://github.com/dumprr/TubeOffloader), a (scuffed) YouTube video downloader made in Python
+  - [**`TubeOffloader`**](https://github.com/sudoboom/TubeOffloader), a (scuffed) YouTube video downloader made in Python
 
-  - [**`Ex(py)riments`**](https://github.com/dumprr/Ex-Py-riments), a bunch of little gadgets made in Python 
+  - [**`Ex(py)riments`**](https://github.com/sudoboom/Ex-Py-riments), a bunch of little gadgets made in Python 
 
-  - [**`Trudare`**](https://github.com/dumprr/Trudare), a truth or dare discord bot (unfinished)
+  - [**`Trudare`**](https://github.com/sudoboon/Trudare), a truth or dare discord bot (unfinished)
 
 
   ALSO...
